@@ -30,6 +30,6 @@ Use this section to recap over some of your major learnings while working throug
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://github.com/Sruthiravichnadran/Navigation-Bar.git
 
-- Live Site URL: 
+- Live Site URL: https://steady-pie-c1802a.netlify.app/#
